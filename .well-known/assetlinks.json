@@ -1,0 +1,26 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "biz.growapp.kz.winline",
+            "sha256_cert_fingerprints": [
+                "2F:79:60:C6:05:98:68:92:D7:E6:A4:69:9F:DB:64:E2:56:D5:D6:56:6F:22:B7:D9:B3:3D:9D:11:06:6D:D9:94"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "biz.growapp.kz.winline.stage",
+            "sha256_cert_fingerprints": [
+                "C4:69:27:22:8C:A9:AA:18:DC:7F:AD:B1:28:4E:64:8C:39:D1:A7:EC:8F:57:28:9E:40:7C:C3:37:3D:A7:D1:E3"
+            ]
+        }
+    }
+]
